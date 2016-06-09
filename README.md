@@ -1,6 +1,10 @@
 Map Label – A Google Maps JavaScript API utility library
 ==============
 
+
+DISCLAIMER: The original project seems to unmaintained. This is just a fork for a private project, better have a look at [Pull request 9](https://github.com/googlemaps/js-map-label/pull/9) and use his fork.
+
+
 A library that adds well-styled, customizable text to a particular location in a Google Maps JavaScript API v3 map.
 
 Note that browser `<canvas>` support is required for the label to be displayed.
